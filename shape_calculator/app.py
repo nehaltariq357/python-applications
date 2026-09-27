@@ -45,3 +45,24 @@ class Triangle(Shape):
         return self.side1 + self.side2 + self.side3
         
 
+def calculate_shape(shapes):
+    with open("shape_results.txt","w") as file:
+        for shape in shapes:
+            result = (
+                f"Shape: {type(shape).__name__}\n"
+                f"Area: {shape.area()}\n"
+                f"Perimeter: {shape.perimeter()}\n"
+                "------------------\n"
+            )
+            print(result)
+            file.write(result)
+
+shapes = [
+    Circle(5),
+    Rectangle(4,6),
+    Triangle(3,4,5,4,5)
+]
+
+
+calculate_shape(shapes)
+

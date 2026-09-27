@@ -1,0 +1,12 @@
+Shape: Circle
+Area: 78.5
+Perimeter: 31.400000000000002
+------------------
+Shape: Rectangle
+Area: 24
+Perimeter: 20
+------------------
+Shape: Triangle
+Area: 10.0
+Perimeter: 12
+------------------

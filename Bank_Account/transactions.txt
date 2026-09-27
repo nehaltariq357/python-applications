@@ -1,0 +1,9 @@
+Deposite: 500, Balance: 1500 - 2026-09-27 15:22:53
+Deposite: 600, Balance: 1600 - 2026-09-27 19:27:44
+Withdraw: 300, Balance: 1300 - 2026-09-27 19:28:21
+Deposite: 50000, Balance: 51300 - 2026-09-27 19:28:58
+Deposite: 5000, Balance: 56300 - 2026-09-27 19:31:05
+Withdraw: 200, Balance: 56100 - 2026-09-27 19:31:44
+Deposite: 20, Balance: 1020 - 2026-09-27 19:38:41
+Deposite: 50000, Balance: 51020 - 2026-09-27 19:40:12
+Withdraw: 2000, Balance: 49020 - 2026-09-27 19:40:18
